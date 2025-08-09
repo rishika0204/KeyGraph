@@ -130,7 +130,7 @@ Modify these inside `find_keywords` for customization.
 
 ---
 
-## 🚀 Why PhraseRank?
+## 🚀 Why KeyGraph?
 
 * **Fast** — Parallelized co-occurrence computation.
 * **Accurate** — POS-aware filtering for better relevance.
